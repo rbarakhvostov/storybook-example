@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pin-button-text {
+  color: blue;
+}
+
+.unpin-button-text {
+  color: red;
+}
